@@ -7,38 +7,43 @@ Ela permite que os usuários obtenham a cotação de moedas em relação ao Real
 
 1. Execute o programa Python. 
  - Selecione uma moeda no menu suspenso.
- ![image](https://github.com/Lucasapn2/Interface-grafica-cotacao/assets/129186705/dc58c8d7-9f81-40bb-8e7d-a3cdb5ea54a5)
+![img1](https://github.com/Lucasapn2/Interface-grafica-cotacao/assets/129186705/25607afa-db3f-487c-b25a-091190c551af)
+
 
 
   
 2. Escolha uma data da qual você deseja obter a cotação.
 
-![image](https://github.com/Lucasapn2/Interface-grafica-cotacao/assets/129186705/3ba0d566-333e-4811-b2c6-d11095588b9b)
+![img2](https://github.com/Lucasapn2/Interface-grafica-cotacao/assets/129186705/aaf0b610-8216-4341-8de8-cb744941a39d)
+
 
 
 3. Clique no botão "Pegar Cotação" para obter a cotação da moeda na data selecionada.
 
-![image](https://github.com/Lucasapn2/Interface-grafica-cotacao/assets/129186705/4a02fe66-f108-426a-8354-6ade024f03d9)
+![Img3](https://github.com/Lucasapn2/Interface-grafica-cotacao/assets/129186705/ce87bf48-a550-4bfa-a254-1e2199205ac1)
+
 
 
 
 4. Se você deseja atualizar as cotações em um arquivo Excel, siga estas etapas:
    - Clique no botão "Selecionar arquivo"
- ![image](https://github.com/Lucasapn2/Interface-grafica-cotacao/assets/129186705/b62515f3-11ea-4e9a-8b29-944759101775)
-
+![img4](https://github.com/Lucasapn2/Interface-grafica-cotacao/assets/129186705/5294191f-9555-4bf2-ac64-a4127ab17fb1)
 
   -  e escolha um arquivo Excel que contenha Escrito moedas na Coluna A.
-  ![image](https://github.com/Lucasapn2/Interface-grafica-cotacao/assets/129186705/116424e2-547f-4974-bad4-cd264e997c48)
+ ![img5](https://github.com/Lucasapn2/Interface-grafica-cotacao/assets/129186705/a84ed82b-d860-48d0-8135-78cd48c855cb)
+
 
    - Escolha as datas de início e término para as quais deseja atualizar as cotações.
-    ![image](https://github.com/Lucasapn2/Interface-grafica-cotacao/assets/129186705/0d1f016a-cc38-4cd0-b9c4-05ac16d84497)
+   ![img6](https://github.com/Lucasapn2/Interface-grafica-cotacao/assets/129186705/c78ece87-f6bc-463b-9dc7-27bd83af6294)
+
 
    
    - Clique no botão "Atualizar Cotações" para buscar e atualizar as cotações no arquivo Excel.
-     ![image](https://github.com/Lucasapn2/Interface-grafica-cotacao/assets/129186705/1f0673e8-c013-4f41-a0c6-5e58501e1ff3)
+    ![img7](https://github.com/Lucasapn2/Interface-grafica-cotacao/assets/129186705/a3539510-b18c-46e6-8fc9-e0f20ca8e0dd)
+
      
    - Verifique o Arquivo Excel
-    ![image](https://github.com/Lucasapn2/Interface-grafica-cotacao/assets/129186705/6485fb62-f56c-4cae-b596-a1f2fce7c2e6)
+   ![img8](https://github.com/Lucasapn2/Interface-grafica-cotacao/assets/129186705/5684eed0-a0da-43b8-9c6f-4184cba04923)
 
 Certifique-se de que você tem as dependências necessárias instaladas. Você pode verificar as dependências no arquivo `requirements.txt`.
 
@@ -52,10 +57,11 @@ Para executar este projeto, você precisa ter as seguintes dependências instala
 - datatime
 - tkcalendar
 - requests
-
+- Tkinter
 Para instalar as dependências, você pode usar o seguinte comando:
 - pip install customtkinter
 - pip install tkcalendar
 - pip install requests
 - pip install datatime
+- pip install tkinter
 
