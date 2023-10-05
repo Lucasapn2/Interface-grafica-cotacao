@@ -59,7 +59,7 @@ Para executar este projeto, você precisa ter as seguintes dependências instala
 - requests
 - Tkinter
 
-Para instalar as dependências, você pode usar o seguinte comando:
+### Para instalar as dependências, você pode usar o seguinte comando:
 - pip install customtkinter
 - pip install tkcalendar
 - pip install requests
