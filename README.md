@@ -58,6 +58,7 @@ Para executar este projeto, você precisa ter as seguintes dependências instala
 - tkcalendar
 - requests
 - Tkinter
+
 Para instalar as dependências, você pode usar o seguinte comando:
 - pip install customtkinter
 - pip install tkcalendar
